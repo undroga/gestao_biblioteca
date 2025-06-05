@@ -79,7 +79,7 @@ public class Main {
             System.out.println("1. Adicionar Livro");
             System.out.println("2. Adicionar Revista");
             System.out.println("3. Editar Item");
-            System.out.println("ex. Exemplo git");
+            System.out.println("ex. Exemplo git1");
             System.out.println("4. Remover Item");
             System.out.println("5. Listar Todos os Itens");
             System.out.println("0. Voltar ao menu principal");
