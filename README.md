@@ -1,18 +1,28 @@
-## Getting Started
+# Pokémon Search - Next.js + PokeAPI
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Folder Structure
+Aplicação web para buscar e explorar Pokémon, com detalhes de tipos, habilidades, evoluções e movimentos. Desenvolvido com Next.js, Node.js e PokeAPI.
 
-The workspace contains two folders by default, where:
+![Preview da Aplicação](https://via.placeholder.com/800x400?text=Pokémon+Search+Preview) <!-- Substitua por imagem real -->
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## ✨ Funcionalidades
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- 🔍 Busca de Pokémon por nome
+- 🎨 Badges coloridas por tipo
+- 🔄 Visualização de cadeias de evolução
+- ⚡ Movimentos e habilidades detalhados
+- 🚀 Paginação para listagem
+- 📦 Cache de API integrado
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Pré-requisitos
 
-## Dependency Management
+- Node.js 18+
+- npm 9+
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🚀 Como Executar
+
+1. **Clone o repositório**
+   ```bash
+   git clone https://github.com/seu-usuario/pokemon-search.git
+   cd pokemon-search
