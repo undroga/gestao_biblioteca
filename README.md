@@ -25,4 +25,4 @@ Aplicação web para buscar e explorar Pokémon, com detalhes de tipos, habilida
 1. **Clone o repositório**
    ```bash
    git clone https://github.com/seu-usuario/pokemon-search.git
-   cd pokemon-search
+   cd pokemon-searc
